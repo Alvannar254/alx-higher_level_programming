@@ -1,1 +1,1 @@
-Project 0, Hello world!
+This the repository for the first python project!
